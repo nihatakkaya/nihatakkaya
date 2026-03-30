@@ -1,4 +1,4 @@
-<h3 align="center">💫 About Me:</h3>
+<h1 align="center">💫 About Me:</h1>
 
 - 🔭 I'm currently working on: **an Intern Management System using ASP.NET Core, Entity Framework, and Identity.**
 
