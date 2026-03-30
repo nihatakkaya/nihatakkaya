@@ -1,4 +1,12 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">💫 About Me:</h3>
+
+- 🔭 I'm currently working on: **an Intern Management System using ASP.NET Core, Entity Framework, and Identity.**
+
+- 🤝 I'm seeking: **opportunities to improve my backend architecture skills and learn industry best practices.**
+
+- 🌱 I'm currently learning: **advanced ASP.NET Core Web API concepts and Machine Learning.**
+
+- 👯 I'm looking to collaborate on: **open-source C# backend projects and .NET development.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
